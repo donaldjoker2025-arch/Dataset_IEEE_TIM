@@ -25,7 +25,7 @@ Each dataset is provided as a preprocessed CSV file containing the following fie
 
 | Field | Description |
 |-------|-------------|
-| `group` | Trajectory group index |
+| `group` | Serial number |
 | `time` | Timestamp |
 | `yaw` | Yaw angle (deg) |
 | `pitch` | Pitch angle (deg) |
