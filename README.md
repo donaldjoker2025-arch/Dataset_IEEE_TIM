@@ -56,21 +56,6 @@ label_cols = ['x', 'y']
 
 ---
 
-## 📄 Citation
-
-If you use this dataset in your research, please cite:
-
-```
-@article{wang2025geomagnetic,
-  title   = {A Quality-Driven Geomagnetic Measurement Framework for Indoor Positioning},
-  author  = {Wang, Jiale and Ren, Zhanyan and Zhang, Zhanpeng and Xia, Ming and Shi, Chuang},
-  journal = {IEEE Transactions on Instrumentation and Measurement},
-  year    = {2025}
-}
-```
-
----
-
 ## 🤝 Contact & Collaboration
 
 We warmly welcome further research, discussions, and collaborations using these datasets.  
